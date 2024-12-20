@@ -1,0 +1,11 @@
+Text,Timestamp,Likes,Location,Shares,cleaned_Text,vader_sentiment,textblob_sentiment,final_sentiment
+"""This product is amazing!""",2024-12-01 12:30:00,55,New York ,25.0,product amazing,Positive,Positive,Positive
+"""Not happy with the service""",2024-11-01 12:31:00,48,London,49.0,happy service,Positive,Positive,Positive
+"""Good Quality""",2024-10-01 12:32:00,46,America,28.0,Good Quality,Positive,Positive,Positive
+"""Quality is amazing""",2024-09-01 12:33:00,51,Mumbai,88.0,Quality amazing,Positive,Positive,Positive
+"""Superb""",2024-08-01 01:25:00,24,New York ,27.0,Superb,Positive,Positive,Positive
+"""As expected""",2024-07-01 05:22:00,75,America,99.0,expected,Neutral,Negative,Mixed
+"""Very Comfortable""",2024-06-01 06:14:00,188,America,57.0,Comfortable,Positive,Positive,Positive
+"""Good product""",2024-05-01 04:55:00,16,London,68.0,Good product,Positive,Positive,Positive
+"""Very Nice """,2024-04-01 08:45:00,43,Mumbai,15.0,Nice,Positive,Positive,Positive
+nan,, ,,,nan,Neutral,Neutral,Neutral
